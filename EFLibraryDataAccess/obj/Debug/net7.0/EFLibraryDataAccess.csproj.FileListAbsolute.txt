@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Entity Framework\Demo\EFDemoApp\EFLibraryDataAccess\bin\Debug\net7.0\EFLibraryDataAccess.deps.json
+C:\Users\user\Desktop\Entity Framework\Demo\EFDemoApp\EFLibraryDataAccess\bin\Debug\net7.0\EFLibraryDataAccess.dll
+C:\Users\user\Desktop\Entity Framework\Demo\EFDemoApp\EFLibraryDataAccess\bin\Debug\net7.0\EFLibraryDataAccess.pdb
+C:\Users\user\Desktop\Entity Framework\Demo\EFDemoApp\EFLibraryDataAccess\obj\Debug\net7.0\EFLibraryDataAccess.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Entity Framework\Demo\EFDemoApp\EFLibraryDataAccess\obj\Debug\net7.0\EFLibraryDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Entity Framework\Demo\EFDemoApp\EFLibraryDataAccess\obj\Debug\net7.0\EFLibraryDataAccess.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Entity Framework\Demo\EFDemoApp\EFLibraryDataAccess\obj\Debug\net7.0\EFLibraryDataAccess.AssemblyInfo.cs
+C:\Users\user\Desktop\Entity Framework\Demo\EFDemoApp\EFLibraryDataAccess\obj\Debug\net7.0\EFLibraryDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Entity Framework\Demo\EFDemoApp\EFLibraryDataAccess\obj\Debug\net7.0\EFLibraryDataAccess.dll
+C:\Users\user\Desktop\Entity Framework\Demo\EFDemoApp\EFLibraryDataAccess\obj\Debug\net7.0\refint\EFLibraryDataAccess.dll
+C:\Users\user\Desktop\Entity Framework\Demo\EFDemoApp\EFLibraryDataAccess\obj\Debug\net7.0\EFLibraryDataAccess.pdb
+C:\Users\user\Desktop\Entity Framework\Demo\EFDemoApp\EFLibraryDataAccess\obj\Debug\net7.0\ref\EFLibraryDataAccess.dll
